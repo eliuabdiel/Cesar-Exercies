@@ -1,0 +1,14 @@
+body{
+    margin: 0%;
+}
+body{
+    background: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)),  url(/img/mazaltan-atardecer.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+    position: relative;
+ 
+}
+nav{
+    background-color: rgb(108, 7, 202);
+}
